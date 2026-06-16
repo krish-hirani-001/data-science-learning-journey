@@ -1,0 +1,10 @@
+hello world
+this is a test
+python is very Easy This is a log entry
+
+hello world
+this is a test
+
+hello world
+this is a test
+python is very Easy 

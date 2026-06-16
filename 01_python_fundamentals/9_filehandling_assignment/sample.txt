@@ -1,0 +1,5 @@
+hello coder
+this is sample.txt file
+java is very Easy 
+this in java language
+java is high Level language
