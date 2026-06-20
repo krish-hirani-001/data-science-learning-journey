@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Course,Marks,City
+101,Amit,20,Male,BCA,85,Rajkot
+102,Priya,21,Female,BScIT,92,Ahmedabad
+103,Rahul,22,Male,BCom,78,Surat
+104,Neha,20,Female,BScIT,88,Rajkot
+105,Karan,23,Male,BCA,67,Vadodara
+106,Pooja,21,Female,BScIT,95,Ahmedabad
+107,Vikas,22,Male,BCA,73,Surat
+108,Riya,20,Female,BCom,81,Rajkot
+109,Arjun,21,Male,BScIT,89,Vadodara
+110,Sneha,22,Female,BCA,91,Ahmedabad
