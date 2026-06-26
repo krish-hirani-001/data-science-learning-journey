@@ -1,0 +1,10 @@
+DEBUG:root:Debug Message
+INFO:root:Program Started
+WARNING:root:Low Disk Space
+ERROR:root:Unable to Open File
+CRITICAL:root:Database Crashed
+DEBUG:root:Debug Message
+INFO:root:Program Started
+WARNING:root:Low Disk Space
+ERROR:root:Unable to Open File
+CRITICAL:root:Database Crashed
