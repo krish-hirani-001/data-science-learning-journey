@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import datetime
+from pathlib import Path
 
 
 # File Upload
@@ -24,14 +25,16 @@ color=st.color_picker("select color")
 st.write("The current color is", color)
 
 # Display Images
-st.image("veldora.png",caption="veldora technology",width=400)
+BASE_DIR = Path(__file__).parent
+
+st.image(BASE_DIR / "veldora.png", caption="veldora technology", width=400)
 
 # Display Video
 # vecteezy_4k-animation-clip-data-analysis-statistical-for-business_46578851
-st.video("videos.mp4",loop=True,autoplay=True,muted=True)
+st.video(str(BASE_DIR / "videos.mp4"),loop=True,autoplay=True,muted=True)
 
 # Display Audio
-st.audio("music.mp3",loop=True,autoplay=True)
+st.audio(str(BASE_DIR / "music.mp3"),loop=True,autoplay=True)
 
 
 
