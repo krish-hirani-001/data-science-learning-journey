@@ -24,5 +24,10 @@ def home2():
         return render_template("abc.html",age=age)
     return render_template("form1.html",age="age")
 
+@app.route("/about1")
+def home3():
+    students=['krish','yash','meet','ayush','jenish']
+    return render_template("xyz.html",students=students)
+
 if __name__ == "__main__":
     app.run(debug=True)
