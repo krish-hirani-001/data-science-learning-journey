@@ -40,21 +40,18 @@ if right.button("Material button", icon=":material/mood:", width="stretch"):
 tg = st.toggle("Dark Mode", value=False)
 
 if tg:
-    bg = "black"
-    text = "white"
     st.write("Dark Mode")
-else:
-    bg = "white"
-    text = "black"
-    st.write("Light Mode")
-
-st.markdown(f"""
-<style>
-.stApp {{
-    background-color: {bg};
-    color: {text};
-}}
+    st.markdown(f"""
+    <style>
+    .stApp {{
+    background-color: black;
+    color: white;
+    }}
 </style>
 """, unsafe_allow_html=True)
+else:
+    st.write("Light Mode")
+
+
 
 
