@@ -9,8 +9,6 @@ with co2:
 with co3:
     st.write("right")
 
-#Sidebar
-st.sidebar.title("Menu")
 
 option = st.sidebar.selectbox(
     "Choose",
