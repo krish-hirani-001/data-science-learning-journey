@@ -1,0 +1,11 @@
+emp_id,emp_name,age,department,designation,salary,city
+101,Amit Patel,35,HR,Manager,55000,Rajkot
+102,Neha Shah,28,IT,Software Engineer,70000,Ahmedabad
+103,Rahul Mehta,32,Finance,Accountant,48000,Surat
+104,Priya Joshi,31,Marketing,Executive,42000,Vadodara
+105,Karan Desai,30,IT,Data Analyst,65000,Rajkot
+106,Riya Trivedi,35,Sales,Sales Executive,39000,Bhavnagar
+107,Manish Patel,32,HR,Recruiter,45000,Jamnagar
+108,Sneha Shah,29,IT,Web Developer,58000,Ahmedabad
+109,Jay Parmar,35,Finance,Financial Analyst,62000,Rajkot
+110,Pooja Bhatt,31,Marketing,Manager,75000,Surat
