@@ -1,11 +1,11 @@
-student_id,student_name,age,gender,course,semester,marks,city
-1,Krish Hirani,20,Male,B.Sc.IT,6,89,Rajkot
-2,Aarav Patel,19,Male,BCA,4,78,Ahmedabad
-3,Diya Shah,20,Female,B.Sc.IT,6,91,Surat
-4,Rohan Mehta,21,Male,B.Com,5,72,Vadodara
-5,Kavya Joshi,19,Female,BCA,3,85,Rajkot
-6,Yash Patel,20,Male,B.Sc.IT,5,67,Jamnagar
-7,Meera Desai,21,Female,BBA,6,88,Bhavnagar
-8,Dev Shah,22,Male,BCA,6,74,Ahmedabad
-9,Riya Trivedi,20,Female,B.Sc.IT,4,95,Rajkot
-10,Harsh Parmar,21,Male,B.Com,6,81,Surat
+student_id,student_name,age,gender,course,semester,marks,city,percentage,percentile
+1,Krish Hirani,20,Male,B.Sc.IT,6,89,Rajkot,89.00%,80.0
+2,Aarav Patel,19,Male,BCA,4,78,Ahmedabad,78.00%,40.0
+3,Diya Shah,20,Female,B.Sc.IT,6,91,Surat,91.00%,90.0
+4,Rohan Mehta,21,Male,B.Com,5,72,Vadodara,72.00%,20.0
+5,Kavya Joshi,19,Female,BCA,3,85,Rajkot,85.00%,60.0
+6,Yash Patel,20,Male,B.Sc.IT,5,67,Jamnagar,67.00%,10.0
+7,Meera Desai,21,Female,BBA,6,88,Bhavnagar,88.00%,70.0
+8,Dev Shah,22,Male,BCA,6,74,Ahmedabad,74.00%,30.0
+9,Riya Trivedi,20,Female,B.Sc.IT,4,95,Rajkot,95.00%,100.0
+10,Harsh Parmar,21,Male,B.Com,6,81,Surat,81.00%,50.0
