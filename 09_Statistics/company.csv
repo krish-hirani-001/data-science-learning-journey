@@ -1,0 +1,51 @@
+company_id,company_name,industry,city,state,employees,revenue_cr,inception_year
+1,TCS,IT Services,Mumbai,Maharashtra,614000,250,1968
+2,Infosys,IT Services,Bengaluru,Karnataka,343000,155,1981
+3,Wipro,IT Services,Bengaluru,Karnataka,240000,90,1945
+4,HCLTech,IT Services,Noida,Uttar Pradesh,225000,110,1976
+5,Tech Mahindra,IT Services,Pune,Maharashtra,152000,55,1986
+6,Reliance Industries,Energy,Mumbai,Maharashtra,236000,850,1966
+7,Adani Enterprises,Conglomerate,Ahmedabad,Gujarat,29000,180,1988
+8,Larsen & Toubro,Engineering,Mumbai,Maharashtra,50000,175,1938
+9,Tata Steel,Steel,Mumbai,Maharashtra,77000,245,1907
+10,JSW Steel,Steel,Mumbai,Maharashtra,40000,165,1982
+11,Asian Paints,Paints,Mumbai,Maharashtra,9000,35,1942
+12,Pidilite,Chemicals,Mumbai,Maharashtra,8000,14,1959
+13,Sun Pharma,Pharmaceuticals,Mumbai,Maharashtra,38000,50,1983
+14,Dr Reddys,Pharmaceuticals,Hyderabad,Telangana,26000,28,1984
+15,Cipla,Pharmaceuticals,Mumbai,Maharashtra,25000,25,1935
+16,Divis Laboratories,Pharmaceuticals,Hyderabad,Telangana,17000,12,1990
+17,Hindustan Unilever,FMCG,Mumbai,Maharashtra,21000,60,1933
+18,ITC,FMCG,Kolkata,West Bengal,25000,78,1910
+19,Dabur,FMCG,Ghaziabad,Uttar Pradesh,7000,13,1884
+20,Britannia,Food,Bengaluru,Karnataka,6000,18,1892
+21,Nestle India,Food,Gurugram,Haryana,9000,20,1959
+22,Maruti Suzuki,Automobile,New Delhi,Delhi,19000,135,1981
+23,Tata Motors,Automobile,Mumbai,Maharashtra,81000,380,1945
+24,Mahindra & Mahindra,Automobile,Mumbai,Maharashtra,42000,145,1945
+25,Hero MotoCorp,Automobile,New Delhi,Delhi,9000,40,1923
+26,Bajaj Auto,Automobile,Pune,Maharashtra,10000,48,1945
+27,TVS Motor,Automobile,Chennai,Tamil Nadu,7000,32,1978
+28,Ashok Leyland,Automobile,Chennai,Tamil Nadu,12000,42,1948
+29,ONGC,Oil & Gas,New Delhi,Delhi,30000,620,1956
+30,Indian Oil,Oil & Gas,New Delhi,Delhi,31000,875,1959
+31,BPCL,Oil & Gas,Mumbai,Maharashtra,11000,500,1952
+32,HPCL,Oil & Gas,Mumbai,Maharashtra,10000,465,1974
+33,Coal India,Mining,Kolkata,West Bengal,228000,140,1975
+34,NTPC,Power,New Delhi,Delhi,17000,165,1975
+35,Power Grid,Power,Gurugram,Haryana,11000,48,1989
+36,Adani Green,Renewable Energy,Ahmedabad,Gujarat,4500,18,2015
+37,Tata Power,Power,Mumbai,Maharashtra,23000,65,1919
+38,Zomato,Food Delivery,Gurugram,Haryana,6500,12,2008
+39,Swiggy,Food Delivery,Bengaluru,Karnataka,7000,11,1885
+40,Flipkart,E-Commerce,Bengaluru,Karnataka,22000,120,2007
+41,Amazon India,E-Commerce,Bengaluru,Karnataka,110000,350,2013
+42,Myntra,E-Commerce,Bengaluru,Karnataka,5000,18,2007
+43,Paytm,Fintech,Noida,Uttar Pradesh,9000,10,2010
+44,PhonePe,Fintech,Bengaluru,Karnataka,6000,15,2015
+45,Razorpay,Fintech,Bengaluru,Karnataka,3500,5,2014
+46,Byjus,EdTech,Bengaluru,Karnataka,18000,25,2011
+47,Unacademy,EdTech,Bengaluru,Karnataka,5000,4,1912
+48,Zoho,Software,Chennai,Tamil Nadu,15000,10,1996
+49,Freshworks,Software,Chennai,Tamil Nadu,6000,6,2010
+50,CRED,Fintech,Bengaluru,Karnataka,1200,2,2018
